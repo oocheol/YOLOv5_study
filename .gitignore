@@ -1,6 +1,7 @@
 # avi
 *.avi
 *.mp4
+/video
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
